@@ -1,0 +1,1 @@
+Learn [more](SpockBasics.md) about Spock, or [get started](GettingStarted.md) right away.
